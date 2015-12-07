@@ -1,0 +1,12 @@
+config/
+vendor/
+userfiles/language/
+userfiles/css/
+userfiles/media/*
+userfiles/export/*
+storage/cache/*
+old_mw/
+phpinfo.php
+.idea
+.env
+/stats2

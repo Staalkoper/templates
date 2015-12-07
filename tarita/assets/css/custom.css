@@ -1,0 +1,48 @@
+/* Add here all your css styles (customizations) */
+.well{min-height:20px;
+padding:19px;
+margin-bottom:20px;
+background:none;
+border:none;
+border-radius:4px;
+-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
+box-shadow:inset 0 1px 1px rgba(0,0,0,.05)
+}
+.contact-form-template-dream .contact-form {
+background:none;
+
+}
+.magic-slider-next {
+    right: 0px;
+}
+.magic-slider-previous {
+    left: 0px;
+}
+.magic-slider-next,
+.magic-slider-previous{
+    position: absolute;
+    top: 50%;
+    margin-top: -25px;
+    display: inline-block;
+    width: 50px;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-size: 40px;
+    text-align: center;
+    cursor: pointer;
+    visibility: hidden;
+}
+.header .dropdown > a:after {
+display:none;
+}
+.breadcrumbs {
+    overflow: hidden;
+    padding: 0 0 0;
+    border-bottom: solid 1px #eee;
+    background: #f5f5f5 repeat;
+}
+.breadcrumbs h1 {
+    color: #666;
+    font-size: 18px;
+    margin-top: 8px;
+}
